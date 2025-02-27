@@ -63,7 +63,7 @@ const slider2 = new RangeSliderPips({
         max: 10000,
         values: [0], // Keep only the max value
         pips: true,
-        range: true,  // Keep range enabled if required by library
+        range: false,  // Keep range enabled if required by library
         pipstep: 200,
         first: false,
         last: false,
