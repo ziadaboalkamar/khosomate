@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197.849" height="72.774" viewBox="0 0 197.849 72.774">
+  <g id="Group_56352" data-name="Group 56352" transform="translate(-844.68 -2024.8)">
+    <g id="Group_56351" data-name="Group 56351" transform="translate(844.68 2024.8)">
+      <g id="Component_8_24" data-name="Component 8 – 24" transform="translate(0 0)">
+        <g id="Group_56339" data-name="Group 56339" transform="translate(0 0)">
+          <g id="Group_56338" data-name="Group 56338" transform="translate(0 14.215)">
+            <image id="Rectangle_14460" data-name="Rectangle 14460" width="187.134" height="58.559" xlink:href="Group%2056352-image.png"/>
+          </g>
+          <image id="Rectangle_14461" data-name="Rectangle 14461" width="25.779" height="59.089" transform="translate(172.07 0)" xlink:href="Group%2056352-image2.png"/>
+        </g>
+        <g id="Group_56347" data-name="Group 56347" transform="translate(26.315 18.235)">
+          <text id="_خصم" data-name=" خصم" transform="translate(74.685 -5.758)" fill="#c1272d" font-size="31" font-family="DINNextLTArabic-Regular, DIN Next LT Arabic"><tspan x="-32.295" y="37"> </tspan><tspan y="37" font-size="30" fill="#000">خصم</tspan></text>
+          <text id="حتى" transform="translate(4 25.742) rotate(-90)" font-size="12" font-family="DINNextLTArabic-Regular, DIN Next LT Arabic"><tspan x="-9.426" y="0">حتى</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
