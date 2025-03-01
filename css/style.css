@@ -1118,6 +1118,9 @@ opacity: 0;
 .filter_page ul.ks-cboxtags li input[type="checkbox"]:focus + label {
 border: 2px solid #e9a1ff;
 }
+.mobile_category{
+  display: none;
+}
 /* end section category */
 /* start offers section */
 .offers_logo_image{
@@ -1530,6 +1533,12 @@ p.paragraph_subtitle {
 }
 .search_row input#search::placeholder {
   font-size: 15px;
+}
+.mobile_category{
+  display: block;
+}
+.desktop_category{
+  display: none;
 }
  }
 
